@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+h3{
+    text-align: center;
+    color: aquamarine;
+}
+h6{
+    text-align: center;
+    color: darkgoldenrod;
+}
+img{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color: darkgreen;
+    font-size:22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    text-align: justify;
+    color: rgb(71, 41, 4);
+    font-size:22px;
+}
+section{
+    text-align: justify;
+    color: chocolate;
+    font-size: 20px;
+    
+}
+hr{
+    color: black;
+   
+    }
+    body{
+      background-color: skyblue;
+    }
